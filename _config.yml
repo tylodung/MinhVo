@@ -1,9 +1,9 @@
 # Site settings
-title: "Biển Xanh"
-url-title: "Cây Xanh"
-description: "Cây Xanh Xanh"
+title: "Sức Khoẻ"
+url-title: "suckhoe"
+description: "Sức Khoẻ"
 paginate: 100
-url: "https://jrbenterprises.info"
+url: "https://noxplayer.net"
 permalink: /:year/:month/:title/
 future: false
 defaults:
