@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Cây Cỏ Máu
+title: Cây Cỏ Máu rất tốt cho phụ nữ
 twitter_large: true
 image: caycomau.jpg
 custom_excerpt: Cây cỏ máu có tác dụng bổ huyết, tốt cho phụ nữ sau sinh, chữa đau nhức, an ngon ngủ tốt.
